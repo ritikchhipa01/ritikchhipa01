@@ -77,9 +77,14 @@ Here are some ideas to get you started:
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ritikchhipa01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ritikchhipa01&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  <br/>
+  
 </div>
 
 <br/><br/>
+   [![ritikchhipa01's GitHub | Stats](https://stats.quine.sh/ritikchhipa01/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ritikchhipa01)
+
 <hr/>
 
 <h3 align="center">
