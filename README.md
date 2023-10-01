@@ -92,7 +92,9 @@ Here are some ideas to get you started:
     <img width="290" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="/>
     <img width="390" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="/>
     <img width="300" src="https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp"/>
-      <p> [![An image of My Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@ritikchhipa01#badges)</p>
+    <p>[![An image of My Holopin badges, which is a link to view their full Holopin profile] <a href="https://www.holopin.io/@ritikchhipa01#badges" target="_blank">Click Here</a></p>
+
+    
 </div>
 
 <h3 align="center">
